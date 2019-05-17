@@ -1,5 +1,5 @@
 # Adafruit Flora Mainboard PCB Files
-<a href="http://www.adafruit.com/products/659"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/659"><img src="assets/659.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 FLORA is Adafruit's fully-featured wearable electronics platform. It's a round, sewable, Arduino-compatible microcontroller designed to empower amazing wearables projects.FLORA comes with Adafruit's support, tutorials and projects. Check out dozens of FLORA tutorials on the Adafruit Learning System, with more added all the time!
